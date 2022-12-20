@@ -1,6 +1,8 @@
 # MovieTube-Website
 MovieTube is a website for movies and TV shows.
 
+**Check the website logo from here:**
+https://www.canva.com/design/DAFOWopdngY/e3B2xdWiZfMSCODAn1hxSw/view?utm_content=DAFOWopdngY&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 
 https://user-images.githubusercontent.com/78879424/208649796-01270e85-cef1-48a9-96ec-c2a2757e54bd.mp4
 
