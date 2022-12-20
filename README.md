@@ -5,7 +5,7 @@ MovieTube is a website for movies and TV shows.
 https://user-images.githubusercontent.com/78879424/208649796-01270e85-cef1-48a9-96ec-c2a2757e54bd.mp4
 
 
-Files description:
+**Files description:**
 1) **index.php** contains the html and javascript code for the first page in the website which contains the sign up and login forms.
 2) **index.css** is the css file for index.php file.
 3) **Home.php** contains the html and javascript code for the second page in the website.
