@@ -24,4 +24,4 @@ https://user-images.githubusercontent.com/78879424/208649796-01270e85-cef1-48a9-
 For the frontend I used HTML, CSS, and JavaScript.
 
 
-For the backend I used PHP, and XAMPP.
+For the backend I used PHP, MySQLi, and XAMPP.
