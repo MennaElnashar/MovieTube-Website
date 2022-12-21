@@ -25,3 +25,9 @@ For the frontend I used HTML, CSS, and JavaScript.
 
 
 For the backend I used PHP, MySQLi, and XAMPP.
+
+**Showcasing the backend:**
+
+
+https://user-images.githubusercontent.com/78879424/208912712-fa246dfa-d795-43f5-a995-7aa43223906f.mp4
+
